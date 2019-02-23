@@ -1,0 +1,11 @@
+com\hari\location\service\LocationServiceImpl.class
+com\hari\location\controllers\LocationRESTController.class
+com\hari\location\util\EmailUtilImpl.class
+com\hari\location\service\LocationService.class
+com\hari\location\util\ReportUtil.class
+com\hari\location\util\EmailUtil.class
+com\hari\location\repos\LocationRepository.class
+com\hari\location\util\ReportUtilImpl.class
+com\hari\location\LocationwebApplication.class
+com\hari\location\controllers\LocationController.class
+com\hari\location\entities\Location.class
